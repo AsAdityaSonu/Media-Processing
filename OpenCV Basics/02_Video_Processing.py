@@ -15,7 +15,6 @@ while True:
     cv2.imshow('frame', frame)  # (windows name, matrix)
 
     if cv2.waitKey(1) & 0xFF == ord('q'):  # if cv2.waitKey(1) & 0xFF == ord('q') checks if the key pressed is 'q'.
-
         break
 
 cap.release()
