@@ -1,2 +1,0 @@
-# Image Processing
-## Using OpenCV 
